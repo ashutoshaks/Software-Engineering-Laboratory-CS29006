@@ -1,0 +1,5 @@
+*.class
+*.o
+*.out
+.vscode/
+__pycache__/
